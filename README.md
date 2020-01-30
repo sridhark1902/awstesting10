@@ -7,9 +7,8 @@ If you would like to run the web app locally, install Tomcat 8 and Postgresql 9.
 
 You can deploy the ROOT.war archive that build.sh generates to an AWS Elastic Beanstalk web server environment running the Tomcat 8 platform.
 
-####PPPPP*(()))((())))SSSSsss*******o download, build and deploy the project
+####PPPPP*(()))((())))SSSSsss*****SSS**o download, build and deploy the project
 Clone the project (SSH):
-
 	~$ git clone git@github.com:awslabs/eb-tomcat-snakes.git
 
 Or with HTTPS:
